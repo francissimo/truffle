@@ -1,3 +1,5 @@
+const { detectConfigOrDefault } = require("../utils/utils");
+
 const command = {
   command: "version",
   description: "Show version number and exit",
@@ -10,19 +12,8 @@ const command = {
   run: async function (options) {
     const version = require("../version");
     const {logger} = options;
-    const Config = require("@truffle/config");
 
-    let config;
-    try {
-      config = Config.detect(options);
-    } catch (error) {
-      // Suppress error when truffle can't find a config
-      if (error.message === "Could not find suitable configuration file.") {
-        config = Config.default();
-      } else {
-        throw error;
-      }
-    }
+    const config = detectConfigOrDefault(options);
 
     version.logAll(logger, config);
     return;
