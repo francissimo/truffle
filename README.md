@@ -77,7 +77,7 @@ If you'd like to update a dependency to the same version across all packages, yo
 
 Please make pull requests against `develop`.
 
-There is a bit more information in the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
+There is a bit more information in the [CONTRIBUTING.md]/c/keywords^/1,job (./CONTRIBUTING.md) file.
 
 ### License
 
