@@ -26,7 +26,7 @@
     "colors": "^1.4.0",
     "debug": "^4.3.1",
     "lodash.partition": "^4.6.0",
-    "minimatch": "^3.0.4",
+    "minimatch": "^3.0.5",
     "semver": "^7.3.4"
   },
   "devDependencies": {
