@@ -41,7 +41,7 @@
     "@truffle/codec": "^0.11.19",
     "@truffle/compile-solidity": "^6.0.2",
     "@truffle/source-fetcher": "^0.5.9",
-    "semver": "^7.3.4"
+    "semver": "^7.5.2"
   },
   "devDependencies": {
     "@truffle/compile-common": "^0.7.22",
