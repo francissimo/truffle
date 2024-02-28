@@ -75,7 +75,7 @@
     "semver": "^7.3.4",
     "source-map-support": "^0.5.19",
     "spawn-args": "^0.1.0",
-    "tmp": "^0.2.1",
+    "tmp": "^0.2.2",
     "universal-analytics": "^0.4.17",
     "web3": "1.5.3",
     "web3-utils": "1.5.3",
