@@ -18,7 +18,7 @@
     "prepare": "exit 0"
   },
   "dependencies": {
-    "ora": "^3.4.0",
+    "ora": "^6.0.1",
     "web3-utils": "1.5.3"
   },
   "publishConfig": {
