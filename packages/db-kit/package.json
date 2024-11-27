@@ -63,7 +63,7 @@
     "@truffle/decoder": "^5.1.1",
     "@truffle/environment": "^0.2.82",
     "@truffle/fetch-and-compile": "^0.1.18",
-    "ink": "^3.0.8",
+    "ink": "^5.1.0",
     "ink-big-text": "^1.2.0",
     "ink-divider": "^3.0.0",
     "ink-select-input": "^4.2.0",
