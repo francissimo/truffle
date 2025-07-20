@@ -40,7 +40,7 @@
     "@textile/hub": "^6.0.2",
     "@truffle/preserve": "^0.2.4",
     "cids": "^1.1.5",
-    "ipfs-http-client": "^48.2.2",
+    "ipfs-http-client": "^60.0.1",
     "isomorphic-ws": "^4.0.1",
     "iter-tools": "^7.0.2",
     "ws": "^7.4.3"
