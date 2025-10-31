@@ -29,7 +29,7 @@
     "lodash.assignin": "^4.2.0",
     "lodash.merge": "^4.6.2",
     "lodash.pick": "^4.4.0",
-    "module": "^1.2.5",
+    "module": "^2.0.0",
     "original-require": "^1.0.1"
   },
   "devDependencies": {
